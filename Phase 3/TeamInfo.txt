@@ -1,0 +1,10 @@
+Team045:
+BinXu		     email: bxu93@gatech.edu
+QingjianLi 	     email: qli387@gatech.edu
+EndongWang	     email: ewang37@gatech.edu
+ShaojuanLiao	 email: sliao33@gatech.edu
+
+NOTE: We change the EER diagram, merging the table city and store together. Otherwise, the result is not right.
+All the sql codes for reports are in: team045_report_sql_v4
+All the table schema are in:team045_p4_schema
+All the sql data input: cs6400_sp19_team045_v4
